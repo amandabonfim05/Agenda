@@ -1,2 +1,2 @@
 # Agenda
-Uma agenda para colocar ate contatos com suas informações
+Uma agenda para colocar ate 50 contatos com suas informações
